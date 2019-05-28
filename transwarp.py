@@ -10,3 +10,4 @@ class _engine(object):
 
 engine = None
 
+class _DbCtx(threading.local):
